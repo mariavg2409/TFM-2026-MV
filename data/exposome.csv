@@ -1,0 +1,65 @@
+ukb_id,variable,answer_choice,third_person_narrative,question_answer
+21001,bmi,Body Mass Index,Body Mass Index,Body Mass Index
+1239,tobacco_smoker,"Yes, on most or all days",The person smokes on most or all days,"Question: Do you smoke tobacco now? Answer: Yes, on most or all days."
+1239,tobacco_smoker,Only occasionally,The person smokes only occasionaly,Question: Do you smoke tobacco now? Answer: Only occasionally.
+1239,tobacco_smoker,No,The person does not smoke,Question: Do you smoke tobacco now? Answer: No.
+1558,alcohol,Daily or almost daily,The person drinks alcohol daily or almost daily,Question: About how often do you drink alcohol? Answer: Daily or almost daily.
+1558,alcohol,Three or four times a week,The person drinks alchohol three or four times a week,Question: About how often do you drink alcohol? Answer: Three or four times a week.
+1558,alcohol,Once or twice a week,The person drinks alcohol once or twice a week,Question: About how often do you drink alcohol? Answer: Once or twice a week.
+1558,alcohol,One to three times a month,The person drinks alcohol one to three times a month,Question: About how often do you drink alcohol? Answer: One to three times a month.
+1558,alcohol,Special occasions only,The person drinks alcohol on special occasions only,Question: About how often do you drink alcohol? Answer: Special occasions only.
+1558,alcohol,Never,The person never drinks alcohol,Question: About how often do you drink alcohol? Answer: Never.
+31,sex,Female,The sex of the person is female,Question: What is your sex? Answer: Female.
+31,sex,Male,The sex of the person is male,Question: What is your sex? Answer: Male.
+1150,side_phone,Right,The person uses the phone usually on the right side of the head,Question: On what side of the head do you usually use a mobile phone? Answer: Right.
+1150,side_phone,Equally left and right,The person uses the phone usually equally on both the left and right sides of the head,Question: On what side of the head do you usually use a mobile phone? Answer: Equally left and right.
+1150,side_phone,Left,The person uses the phone usually on the left side of the head,Question: On what side of the head do you usually use a mobile phone? Answer: Left.
+1200,sleeplessness_insomnia,Never/rarely,The person never or rarely has trouble falling asleep or waking up in the middle of the night,Question: Do you have trouble falling asleep at night or do you wake up in the middle of the night? Answer: Never/rarely
+1200,sleeplessness_insomnia,Sometimes,The person sometimes has trouble falling asleep or waking up in the middle of the night,Question: Do you have trouble falling asleep at night or do you wake up in the middle of the night? Answer: Sometimes
+1200,sleeplessness_insomnia,Usually,The person usually has trouble falling asleep or waking up in the middle of the night.,Question: Do you have trouble falling asleep at night or do you wake up in the middle of the night? Answer: Usually
+2010,nerves,Yes,The person suffers from nerves,Question: Do you suffer from nerves? Answer: Yes
+2010,nerves,No,The person does not suffer from nerves,Question: Do you suffer from nerves? Answer: No
+2267,sun_protection,Never/rarely,The person never or rarely wears sun protection while outdoors in the summer ,"Question: Do you wear sun protection (e.g. sunscreen lotion, hat) when you spend time outdoors in the summer? Answer: Never/rarely"
+2267,sun_protection,Sometimes,The person sometimes wears sun protection while outdoors in the summer ,"Question: Do you wear sun protection (e.g. sunscreen lotion, hat) when you spend time outdoors in the summer? Answer: Sometimes"
+2267,sun_protection,Most of the time,The person wears sun protection most of the time while outdoors in the summer ,"Question: Do you wear sun protection (e.g. sunscreen lotion, hat) when you spend time outdoors in the summer? Answer: Most of the time"
+2267,sun_protection,Always,The person always wears sun protection while outdoors in the summer ,"Question: Do you wear sun protection (e.g. sunscreen lotion, hat) when you spend time outdoors in the summer? Answer: Always"
+2267,sun_protection,Do not go out in sunshine,The person does not go outdoors in the summer,"Question: Do you wear sun protection (e.g. sunscreen lotion, hat) when you spend time outdoors in the summer? Answer: Do not go out in sunshine"
+1787,maternal_smoking,Yes,The mother of the person smoked regularly around the time he was born,Question: Did your mother smoke regularly around the time when you were born? Answer: Yes
+1787,maternal_smoking,No,The mother of the person did not smoke regularly around the time he was born,Question: Did your mother smoke regularly around the time when you were born? Answer: No
+1478,salt_added_food,Never/rarely,The person never or rarely adds extra salt to its food after cooking,Question: Do you add salt to your food? (Do not include salt used in cooking) Answer: Never / Rarely
+1478,salt_added_food,Sometimes,The person somtimes adds extra salt to its food after cooking,Question: Do you add salt to your food? (Do not include salt used in cooking) Answer: Sometimes
+1478,salt_added_food,Usually,The person usually adds extra salt to its food after cooking,Question: Do you add salt to your food? (Do not include salt used in cooking) Answer: Usually
+1478,salt_added_food,Always,The person always adds extra salt to its food after cooking,Question: Do you add salt to your food? (Do not include salt used in cooking) Answer: Always
+1508,coffee_type,Decaffeinated coffee (any type),The person usually drinks decaffeinated coffee of any type,Question: What type of coffee do you usually drink? Answer: Decaffeinated coffee (any type)
+1508,coffee_type,Instant coffee,The person usually drinks instant coffee,Question: What type of coffee do you usually drink? Answer: Instant coffee
+1508,coffee_type,"Ground coffee (include espresso, filter etc)","The person usually drinks ground coffee, including espresso and filter coffee","Question: What type of coffee do you usually drink? Answer: Ground coffee (include espresso, filter etc)"
+1508,coffee_type,Other type of coffee,"The person usually drinks a type of coffee other than decaffeinated, instant, or ground coffee.",Question: What type of coffee do you usually drink? Answer: Decaffeinated coffee (any type)
+30479,tech_before_bed,I use them in bed,The person uses techonology last in bed before bedtime,"Question: How long before bedtime do you last use a computer, tablet, mobile phone or television? Answer: I use them in bed"
+30479,tech_before_bed,Less than 1 hour,The person uses technology for the last time less an hour before bedtime,"Question: How long before bedtime do you last use a computer, tablet, mobile phone or television? Answer: Less than 1 hour"
+30479,tech_before_bed,1-2 hours,The person uses technology for the last time between one or two hours before bedtime,"Question: How long before bedtime do you last use a computer, tablet, mobile phone or television? Answer: 1-2 hours"
+30479,tech_before_bed,2-3 hours,The person uses technology for the last time between two or three hours before bedtime,"Question: How long before bedtime do you last use a computer, tablet, mobile phone or television? Answer: 2-3 hours"
+30479,tech_before_bed,3 hours or longer,The person uses technology for the last time more then three hours before bedtime,"Question: How long before bedtime do you last use a computer, tablet, mobile phone or television? Answer: 3 hours or longer"
+3426,night_shift,Never/rarely,The job the person does never or rarely involves night shifts,Question: Does your work involve night shifts? Answer: Never/rarely
+3426,night_shift,Sometimes,The job the person does sometimes involves night shifts,Question: Does your work involve night shifts? Answer: Sometimes
+3426,night_shift,Usually,The job the person does usually involves night shifts,Question: Does your work involve night shifts? Answer: Usually
+3426,night_shift,Always,The job the person does always involves night shifts,Question: Does your work involve night shifts? Answer: Always
+904,vigorous_excercise,0,"The person does zero days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Zero"
+904,vigorous_excercise,1,"The person does one day per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: One"
+904,vigorous_excercise,2,"The person does two days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Two"
+904,vigorous_excercise,3,"The person does three days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Three"
+904,vigorous_excercise,4,"The person does four days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Four"
+904,vigorous_excercise,5,"The person does five days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Five"
+904,vigorous_excercise,6,"The person does six days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Six"
+904,vigorous_excercise,7,"The person does seven days per week 10 minutes or more of vigorous physical activity (activities that make him/her sweat or breathe hard such as fast cycling, aerobics, heavy lifting)","Question: In a typical WEEK, how many days did you do 10 minutes or more of vigorous physical activity? (These are activities that make you sweat or breathe hard such as fast cycling, aerobics, heavy lifting). Answer: Seven"
+115,father_month_birth,January,The person's father was born on January,Question: Father's month of birth. Answer: January
+115,father_month_birth,February,The person's father was born on February,Question: Father's month of birth. Answer: February
+115,father_month_birth,March,The person's father was born on March,Question: Father's month of birth. Answer: March
+115,father_month_birth,April,The person's father was born on April,Question: Father's month of birth. Answer: April
+115,father_month_birth,May,The person's father was born on May,Question: Father's month of birth. Answer: May
+115,father_month_birth,June,The person's father was born on June,Question: Father's month of birth. Answer: June
+115,father_month_birth,July,The person's father was born on July,Question: Father's month of birth. Answer: July
+115,father_month_birth,August,The person's father was born on August,Question: Father's month of birth. Answer: August
+115,father_month_birth,September,The person's father was born on September,Question: Father's month of birth. Answer: September
+115,father_month_birth,October,The person's father was born on October,Question: Father's month of birth. Answer: October
+115,father_month_birth,November,The person's father was born on November,Question: Father's month of birth. Answer: November
+115,father_month_birth,December,The person's father was born on December,Question: Father's month of birth. Answer: December
