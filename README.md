@@ -22,7 +22,7 @@ The implementation is based on the [Delphi](https://github.com/gerstung-lab/Delp
 
 ```bash
 git clone https://github.com/mariavg2409/TFM-2026-MV.git
-cd Delphi
+cd TFM-2026-MV
 ```
 
 2. Create a virtual conda environment and install the requirements:
